@@ -7,7 +7,7 @@
 
 #include <iostream>
 #include <vector>
-//#include <bits/stdc++.h> //uncomment this for the grid
+#include <bits/stdc++.h> //for the grid
 using namespace std;
 
 // Creating shortcut for an integer pair
