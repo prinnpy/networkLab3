@@ -51,10 +51,12 @@ Unable to open file random.txt
 ### Create .tar
 
 - Go to directory that you want to make .tar file
-- Run command below
+- Run command: `tar -czvf <new-filename>.tar.gz <directory name to zip>`
+- Example:
 
 ```
-tar -czvf <new-filename>.tar.gz <tar filename>
+tar -czvf pri9196.tar.gz networklab3
+
 ```
 
 
