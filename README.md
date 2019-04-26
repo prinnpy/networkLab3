@@ -29,7 +29,6 @@ Example: > mymst input.txt
 Total Excution Time = 1.666 ms
 Minimum Cost = 6
 Minimum Spanning Tree (T): (1,3) -> (2,4) -> (3,5) -> (5,4) -> (6,5)
-
 ```
 
 ##### Invalid prompt
@@ -41,6 +40,7 @@ Invalid prompt. Please enter prompt again.
 ```
 
 ##### Invalid input file
+
 ```
 Example: > mymst input.txt
 > mymst random.txt
@@ -57,7 +57,6 @@ Unable to open file random.txt
 ```
 tar -czvf pri9196.tar.gz networklab3
 ```
-
 
 ### Status
 
