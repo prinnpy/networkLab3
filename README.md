@@ -54,7 +54,7 @@ Unable to open file random.txt
 - Run command below
 
 ```
-tar -czvf archive.tar.gz <tar filename>
+tar -czvf <new-filename>.tar.gz <tar filename>
 ```
 
 
