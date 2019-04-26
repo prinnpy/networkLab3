@@ -56,7 +56,6 @@ Unable to open file random.txt
 
 ```
 tar -czvf pri9196.tar.gz networklab3
-
 ```
 
 
